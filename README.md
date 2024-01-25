@@ -7,4 +7,4 @@ file_name <- read.csv("url")
 
 Data sets (in no particular order)
 
-insurance.csv data set is a simulated data set that was created to find the confounding factor between insurance rates.
+insurance.csv data set is a toy data set that was created to find which variables might impact insurance rates.
