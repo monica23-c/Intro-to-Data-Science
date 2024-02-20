@@ -1,0 +1,8 @@
+user:id,context:timestamp,feeling,int_ext:key,int_ext:label,pets,photo,role:key,role:label,superpower:key,superpower:label,years_teaching,context:location:latitude,context:location:longitude
+"guest23","2024-02-20 15:52:50","curious","2","Introvert","2","SKIPPED","1","Teacher","1","Invisibility","28","41.01832928657798","-111.91852583446341"
+"guest16","2024-02-20 15:50:09","Excited","2","Introvert","0","SKIPPED","1","Teacher","2","Telepathy","19",,
+"guest40","2024-02-20 15:49:50","Interested ","1","Extrovert","1","SKIPPED","1","Teacher","5","Fly","5","41.25114972017675","-111.94401376418635"
+"guest22","2024-02-20 15:49:46","Happy!","2","Introvert","0","SKIPPED","5","Other","1","Invisibility","33",,
+"guest42","2024-02-20 15:49:36","intrigued","2","Introvert","0","SKIPPED","1","Teacher","2","Telepathy","14","41.26474570221685","-111.97135332755272"
+"guest38","2024-02-20 15:49:30","interested","2","Introvert","0","e73b5849-0e29-4d66-b35d-6554206a7067","1","Teacher","3","Freeze time","12","41.25624446017432","-111.94569633036897"
+"guest41","2024-02-20 15:49:19","Ecited","2","Introvert","0","SKIPPED","1","Teacher","3","Freeze time","14",,
